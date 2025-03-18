@@ -40,6 +40,11 @@ jobs:
       - name: Run build-resume script
         run: |
           nix run .#build-resume -- resume-ruebenramirez.md
+          mv resume-ruebenramirez.pdf "resume-ruebenramirez-v${{ steps.calculate-version.outputs.version-string }}.pdf"
+          mv resume-ruebenramirez.docx "resume-ruebenramirez-v${{ steps.calculate-version.outputs.version-string }}.docx"
+          mv resume-ruebenramirez.html "resume-ruebenramirez-v${{ steps.calculate-version.outputs.version-string }}.html"
+          mv resume-ruebenramirez.md "resume-ruebenramirez-v${{ steps.calculate-version.outputs.version-string }}.md"
+          ls -alh
 
       - name: Create release with artifacts
         uses: softprops/action-gh-release@v2 # https://github.com/softprops/action-gh-release
@@ -51,7 +56,5 @@ jobs:
           name: ${{ steps.calculate-version.outputs.version-string }}
           tag_name: ${{ steps.calculate-version.outputs.version-string }}
           files: |
-            resume-ruebenramirez.pdf
-            resume-ruebenramirez.docx
-            resume-ruebenramirez.html
+            resume-ruebenramirez-v*
 
