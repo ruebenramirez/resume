@@ -19,6 +19,20 @@ pipelines.
 
 
 
+### Software Developer II
+January 2013 - March 2014<br/>
+PEER1 Hosting | San Antonio, TX<br/>
+Docker, Git, PHP, Postgresql<br/>
+
+- Migrated application repositories from SVN to Git, implementing Docker
+  containers for development environments using bash, Vagrant, and Dockerfile
+  scripting
+- Improved codebase quality through SOLID principles and test-driven
+  development, expanding unit, integration, and regression test coverage
+- Developed RESTful APIs for core billing systems and integrated external cloud
+  solutions with existing customer portal
+
+
 ### Software Engineer
 July 2012 - Jan 2013<br/>
 Trinity Millennium Group | San Antonio, TX<br/>
