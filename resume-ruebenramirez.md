@@ -17,6 +17,20 @@ pipelines.
 
 ## Professional Experience
 
+### Senior Software Engineer
+October 2014 - Current<br/>
+Independent Contracting | Remote<br/>
+Python, Celery, PostgreSQL, Kubernetes, Elasticsearch, Prometheus, Graphana<br/>
+
+- Developed web applications, API microservices, and data analytics solutions
+  using multiple programming languages
+- Engineered automated configuration management for VMs and containerized
+  applications
+- Designed and implemented monitoring systems with automated recovery procedures
+- Created tools to streamline product management and customer support workflows,
+  reducing resolution time by up to 50%
+- Enhanced operations through structured escalation procedures and comprehensive
+  system documentation
 
 
 ### Senior Software Engineer
