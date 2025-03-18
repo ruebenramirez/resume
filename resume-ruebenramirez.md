@@ -19,6 +19,23 @@ pipelines.
 
 
 
+### Senior Software Engineer
+January 2022 - October 2023<br/>
+Nebulaworks | Irvine, CA (Remote)<br/>
+AWS, Python, R, Docker, Terraform<br/>
+
+- Accelerated cancer research by engineering cloud-based data pipelines for
+  bioinformatics R code execution
+- Designed and implemented REST API for orchestrating high-performance computing
+  workloads on AWS, enabling researchers to analyze tumor growth data at scale
+- Built containerized data pipelines that streamlined the drug discovery
+  process, improving collaboration between computational researchers and wetlab
+  scientists
+- Mentored bioinformatics team members in test-driven development, code
+  organization, and system design, resulting in more maintainable research
+  software
+
+
 ### VP of Strategy and Transformation
 May 2022 - March 2023<br/>
 Nebulaworks | Irvine, CA (Remote)<br/>
