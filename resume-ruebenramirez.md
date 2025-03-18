@@ -18,6 +18,21 @@ pipelines.
 ## Professional Experience
 
 
+
+### Software Developer and Co-Founder
+May 2007 - November 2009<br/>
+aboveSHIFT Software LLC. | Oklahoma City, OK<br/>
+C#, PHP, MySQL<br/>
+
+- Co-founded and led a web development and IT consulting firm, driving all
+  aspects of business operations including sales, marketing, and strategic
+  planning
+- Architected and delivered custom web applications using C# and PHP frameworks
+  backed by MySQL, enabling clients to automate revenue-generating processes and
+  secure file-sharing workflows
+- Established comprehensive IT infrastructure solutions including server
+  configuration, networking, and technical support services for SMBs
+
 ### Software Developer
 December 2005  - November 2009<br/>
 Appian Logistics Software Inc. | Oklahoma City, OK<br/>
