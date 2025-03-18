@@ -19,6 +19,20 @@ pipelines.
 
 
 
+### Software Engineer
+July 2012 - Jan 2013<br/>
+Trinity Millennium Group | San Antonio, TX<br/>
+Linux, C#, ASP.NET MVC, Entity Framework<br/>
+
+- Modernized mainframe applications to web-based systems while preserving
+  business-critical features
+- Wrote technical documentation for government and corporate proposals based on
+  client requirements
+- Created reusable template libraries to standardize web interface development
+- Provided technical expertise during on-site system reviews with client
+  organizations
+
+
 ### Lead Software Developer
 November 2009 - July 2012<br/>
 NewTek Inc. | San Antonio, TX<br/>
