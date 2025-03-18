@@ -1,1 +1,4 @@
 .direnv/**
+*.pdf
+*.html
+*.docx
