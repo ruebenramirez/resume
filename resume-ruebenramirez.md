@@ -19,6 +19,20 @@ pipelines.
 
 
 
+### Cloud Engineer
+February 2021 - December 2021<br/>
+Nebulaworks | Irvine, CA (Remote)<br/>
+Terraform, AWS, Azure, Kubernetes, Helm<br/>
+
+- Managed internal and client AWS and Azure infrastructure with Terraform IaC
+  with both Atlantis and GitHub Actions for automated deployments
+- Deployed GitHub Actions runners across VMs, containers, and
+  Kubernetes clusters in a private GitHub Enterprise environment
+- Created declarative continuous application delivery pipelines for AWS EKS and
+  Azure AKS using Helm and Helmsman
+- Contributed pull requests to Open Source community Github Actions
+
+
 ### Senior Build Engineer
 January 2019 - June 2019<br/>
 Duo Security (Cisco Systems, Inc.) | Ann Arbor, MI (Remote)<br/>
