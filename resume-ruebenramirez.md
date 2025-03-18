@@ -19,6 +19,22 @@ pipelines.
 
 
 
+### Senior Build Engineer
+January 2019 - June 2019<br/>
+Duo Security (Cisco Systems, Inc.) | Ann Arbor, MI (Remote)<br/>
+AWS, Ansible, macOS launchctl, fluentd<br/>
+
+- Collaborated with QA, Development, and SRE teams by mapping the organization,
+  connecting with technical leaders, and learning where improved build processes
+  could accelerate their work
+- Expanded AWS-hosted GitLab CI infrastructure by integrating on-premises macOS
+  builder nodes, repurposing underutilized Mac minis to support iOS, macOS, and
+  watchOS development while enabling comprehensive monitoring via AWS CloudWatch
+- Wrote Ansible scripts to automate the setup and maintenance of both AWS
+  services and on-site macOS build machines, handling security updates, developer
+  tools installation, and integration with AWS identity management
+
+
 ### Senior DevOps Engineer
 October 2016 - October 2017<br/>
 Nokia Inc. | Austin, TX<br/>
