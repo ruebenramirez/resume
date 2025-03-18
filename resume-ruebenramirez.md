@@ -19,6 +19,19 @@ pipelines.
 
 
 
+### Lead Software Developer
+November 2009 - July 2012<br/>
+NewTek Inc. | San Antonio, TX<br/>
+Linux, C#, PHP, MS SQL, MySQL<br/>
+
+- Developed and integrated CRM, ERP, and e-commerce platforms while maintaining
+  legacy backend systems
+- Migrated physical server infrastructure to virtual machines (P2V) for Windows
+  and Linux environments
+- Standardized version control across systems across all development efforts
+- Created business intelligence reports using SQL and data transformation tools
+
+
 ### Software Developer and Co-Founder
 May 2007 - November 2009<br/>
 aboveSHIFT Software LLC. | Oklahoma City, OK<br/>
