@@ -17,6 +17,22 @@ pipelines.
 
 ## Professional Experience
 
+
+### Software Developer
+December 2005  - November 2009<br/>
+Appian Logistics Software Inc. | Oklahoma City, OK<br/>
+VMWare Workstation, C#, SQL, NSIS, InstallShield<br/>
+
+- Wrote installer software that reduced install times from days to hours for
+  desktop, Terminal Services, and Citrix environments
+- Developed multi-threaded C# application for extracting mapping data during
+  installation, reducing deployment time
+- Built web and desktop applications with C# .NET, and MS SQL for logistics
+  software products
+- Configured VMware environments to streamline development and testing
+
+
+
 ### Technical Support Rep.
 December 2004 - August 2005<br/>
 Express Personnel Inc. International Headquarters | Oklahoma City, OK<br/>
