@@ -20,6 +20,22 @@ pipelines.
 
 
 ### Software Developer II
+March 2014 - July 2015<br/>
+Rackspace Hosting | San Antonio, TX<br/>
+OpenStack, Docker, Python, Ruby on Rails<br/>
+
+- Maintained a Redis service with 45,000+ customer databases on AWS, keeping
+  costs low while providing reliable service
+- Updated monitoring solution with automated dashboards and alerts for customer
+  databases across 6 datacenters, helping catch and fix issues faster
+- Led a small tools team focused on database monitoring, introducing practices
+  like code reviews, pair programming, and a Kanban workflow
+- Contributed to team's OpenStack Trove database-as-a-service initiative,
+  implementing backend capabilities and API features for the upstream open source
+  project
+
+
+### Software Developer II
 January 2013 - March 2014<br/>
 PEER1 Hosting | San Antonio, TX<br/>
 Docker, Git, PHP, Postgresql<br/>
