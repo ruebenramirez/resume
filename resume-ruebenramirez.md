@@ -19,6 +19,32 @@ pipelines.
 
 
 
+
+### DevOps Engineer, Technical Lead
+July 2015 - October 2016<br/>
+NewTek Inc. | San Antonio, TX<br/>
+Docker, Python, Ruby, PHP, Postgresql, Elasticsearch<br/>
+
+- Led the architecture and development of a custom ecommerce platform, shifting
+  the IT team from a cost center to a revenue driver by enabling
+  direct-to-customer sales of products and subscriptions, unlocking sales beyond
+  existing reseller channels
+- Designed a containerized, cross-platform development ecosystem using Vagrant
+  and Docker, empowering developers (Linux), designers (macOS), and support teams
+  (Windows) to collaborate seamlessly, while deploying consistent stacks across
+  testing, staging, and production in colocation and public cloud environments
+- Orchestrated a deployment pipeline and RESTful microservice architecture,
+  integrating product licensing and serialization with legacy systems via custom
+  APIs, minimizing disruption to existing operations while expanding business
+  capabilities
+- Transformed reseller sales processes by integrating tiered SKU inventories
+  into the ecommerce platform, replacing legacy order entry and streamlining
+  partner workflows
+- Drove agile implementation and technical strategy, leveraging test-driven
+  development, Cloudflare optimization, and Magento customization to deliver a
+  scalable, customer-facing solution that supported new revenue streams
+
+
 ### Software Developer II
 March 2014 - July 2015<br/>
 Rackspace Hosting | San Antonio, TX<br/>
