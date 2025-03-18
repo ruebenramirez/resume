@@ -115,7 +115,6 @@ OpenStack, Ansible, RHEL, Artifactory, Maven, Networking<br/>
   static code analysis, and artifact scanning
 
 
-
 ### DevOps Engineer, Technical Lead
 July 2015 - October 2016<br/>
 NewTek Inc. | San Antonio, TX<br/>
@@ -212,6 +211,7 @@ C#, PHP, MySQL<br/>
 - Established comprehensive IT infrastructure solutions including server
   configuration, networking, and technical support services for SMBs
 
+
 ### Software Developer
 December 2005  - November 2009<br/>
 Appian Logistics Software Inc. | Oklahoma City, OK<br/>
@@ -224,7 +224,6 @@ VMWare Workstation, C#, SQL, NSIS, InstallShield<br/>
 - Built web and desktop applications with C# .NET, and MS SQL for logistics
   software products
 - Configured VMware environments to streamline development and testing
-
 
 
 ### Technical Support Rep.
