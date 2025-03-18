@@ -19,6 +19,20 @@ pipelines.
 
 
 
+### VP of Strategy and Transformation
+May 2022 - March 2023<br/>
+Nebulaworks | Irvine, CA (Remote)<br/>
+OKRs, KPIs, Client discovery session workshops<br/>
+
+- Led transformation of client engagement model from project-based to
+  product engineering approach
+- Implemented OKR-driven quarterly commitments mapped to agile ceremonies that
+  enhanced transparency through improved product delivery metrics and measurable
+  business outcomes
+- Standardized product engineering practices across multiple engagements within
+  the organization
+
+
 ### Cloud Engineer
 February 2021 - December 2021<br/>
 Nebulaworks | Irvine, CA (Remote)<br/>
