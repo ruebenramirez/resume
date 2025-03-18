@@ -19,6 +19,27 @@ pipelines.
 
 
 
+### Senior DevOps Engineer
+October 2016 - October 2017<br/>
+Nokia Inc. | Austin, TX<br/>
+OpenStack, Ansible, RHEL, Artifactory, Maven, Networking<br/>
+
+- Managed OpenStack private cloud infrastructure spanning data centers in the US
+  and Europe, providing scalable, containerized services and Ansible-driven
+  configuration management for development, testing, and staging environments
+- Created onboarding documentation and video tutorials to streamline adoption of
+  Gerrit Git version control, enabling seamless migration for product teams from
+  legacy systems to the enterprise-standard platform
+- Served as a DevOps platform advocate across Nokia business units, reviewing
+  and optimizing product teams’ build processes, converting them to Jenkins
+  Declarative Pipeline jobs, and transitioning unmanaged environments to
+  standardized, Ansible-managed OpenStack VMs
+- Facilitated platform adoption for diverse workloads, supporting Maven-built
+  Java APIs, Node.js web applications, and deployments on VMware and OpenStack
+  clouds, enhancing development efficiency and security through integrated CI/CD,
+  static code analysis, and artifact scanning
+
+
 
 ### DevOps Engineer, Technical Lead
 July 2015 - October 2016<br/>
