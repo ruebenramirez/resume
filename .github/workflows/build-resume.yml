@@ -1,0 +1,57 @@
+name: Build Resume with Semantic Versioning
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'resume-ruebenramirez.md'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3  # https://github.com/actions/checkout
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Calculate version
+        id: calculate-version
+        uses: bitshifted/git-auto-semver@v1  # https://github.com/bitshifted/git-auto-semver
+        with:
+          main_branch: main
+          create_tag: true
+          tag_prefix: 'v'
+
+      - name: Generate changelog
+        id: generate-notes
+        uses: johnyherangi/create-release-notes@main  # https://github.com/johnyherangi/create-release-notes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@v4  # https://github.com/DeterminateSystems/nix-installer-action
+
+      - name: Run build-resume script
+        run: |
+          nix run .#build-resume -- resume-ruebenramirez.md
+
+      - name: Create release with artifacts
+        uses: softprops/action-gh-release@v2 # https://github.com/softprops/action-gh-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          draft: false
+          body: ${{ steps.generate-notes.outputs.release-notes }}
+          name: ${{ steps.calculate-version.outputs.version-string }}
+          tag_name: ${{ steps.calculate-version.outputs.version-string }}
+          files: |
+            resume-ruebenramirez.pdf
+            resume-ruebenramirez.docx
+            resume-ruebenramirez.html
+
