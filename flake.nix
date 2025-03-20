@@ -60,7 +60,7 @@
               -t html \
               -o "$BASE_NAME.html" \
               --standalone \
-              --metadata title="Resume" \
+              --metadata title="" \
               --css=https://cdn.jsdelivr.net/npm/water.css@2/out/water.css \
               --self-contained
 
