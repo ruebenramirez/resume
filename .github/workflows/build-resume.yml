@@ -23,7 +23,7 @@ jobs:
 
       - name: Calculate version
         id: calculate-version
-        uses: bitshifted/git-auto-semver@v1  # https://github.com/bitshifted/git-auto-semver
+        uses: ruebenramirez/git-auto-semver@v1  # fork of https://github.com/bitshifted/git-auto-semver
         with:
           main_branch: main
           create_tag: true
