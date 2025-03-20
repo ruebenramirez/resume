@@ -53,7 +53,7 @@ focus on scalable solutions and automated deployment pipelines.
 *Terraform, AWS, Azure, Kubernetes, Helm*
 
 - Managed complex cloud infrastructure with Terraform IaC, implementing
-  automated deployment pipelines across AWS and Azure.
+  automated deployment pipelines across AWS and Azure
 - Deployed and configured GitHub Actions runners across VMs, containers, and
   Kubernetes clusters in a private GitHub Enterprise environment
 - Created declarative continuous delivery systems for Kubernetes (EKS and AKS)
