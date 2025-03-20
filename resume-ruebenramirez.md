@@ -67,8 +67,8 @@ focus on scalable solutions and automated deployment pipelines.
 *AWS, Ansible, CI/CD*
 
 - Collaborated with QA, Development, and SRE teams by mapping the organization,
-  connecting with technical leaders, and identifying where improved build processes
-  could accelerate their work
+  connecting with technical leaders, and identifying where improved build
+  processes could accelerate their work
 - Expanded AWS-hosted GitLab CI infrastructure by integrating on-premises macOS
   builder nodes with comprehensive AWS CloudWatch monitoring
 - Automated infrastructure management with Ansible for both AWS services and
@@ -79,7 +79,8 @@ focus on scalable solutions and automated deployment pipelines.
 **NewTek Inc.** | San Antonio, TX<br/>
 *Docker, Python, Ruby, PHP, PostgreSQL, Elasticsearch*
 
-- Led architecture and development of containerized microservices platform using Docker
+- Led architecture and development of containerized microservices platform using
+  Docker
 - Designed cross-platform development ecosystem enabling seamless collaboration
   across teams
 - Implemented RESTful microservice architecture connecting new systems with
