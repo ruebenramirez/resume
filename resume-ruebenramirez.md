@@ -1,5 +1,5 @@
 # Rueben Ramirez
-Austin, TX | ruebenramirez@gmail.com | [GitHub](https://github.com/ruebenramirez) | [Blog](https://blog.rueb.dev/)
+Austin, TX | ruebenramirez@gmail.com | [GitHub](https://github.com/ruebenramirez) | [Blog](https://blog.rueb.dev/) | [Full CV](https://resume.rueb.dev/)
 
 ## Executive Summary
 
