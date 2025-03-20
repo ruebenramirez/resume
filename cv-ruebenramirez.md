@@ -1,4 +1,4 @@
-## Rueben Ramirez
+# Rueben Ramirez
 Austin, TX | ruebenramirez@gmail.com | [GitHub](https://github.com/ruebenramirez) | [Blog](https://blog.rueb.dev/)
 
 ## Executive Summary
