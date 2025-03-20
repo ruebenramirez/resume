@@ -64,7 +64,7 @@ jobs:
           draft: false
           body: ${{ steps.generate-notes.outputs.release-notes }}
           name: ${{ steps.calculate-version.outputs.version-string }}
-          tag_name: ${{ steps.calculate-version.outputs.version-string }}
+          tag_name: v${{ steps.calculate-version.outputs.version-string }}
           files: |
             *-ruebenramirez-v*
 
