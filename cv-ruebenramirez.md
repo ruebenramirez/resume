@@ -19,7 +19,7 @@ focus on scalable solutions and automated deployment pipelines.
 ### Senior Software Engineer
 October 2014 - Present<br/>
 Independent Contracting | Remote<br/>
-Python, Celery, PostgreSQL, Kubernetes, Elasticsearch, Prometheus, Graphana<br/>
+Python, Celery, PostgreSQL, Kubernetes, Elasticsearch, Prometheus, Grafana<br/>
 
 - Designed and implemented distributed microservices architecture for scalable
   web applications
